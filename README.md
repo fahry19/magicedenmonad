@@ -1,0 +1,2 @@
+# magicedenmonad
+for fast mint
